@@ -37,7 +37,7 @@ Thanks to [rahuldkjain](https://github.com/rahuldkjain) for creating awesome too
 
 <!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jhonaquejadau&show_icons=true&locale=en&layout=compact" alt="jhonaquejadau" /></p> -->
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jhonaquejadau&show_icons=true&locale=en" alt="jhonaquejadau" /></p>
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=jhonaquejadau&show_icons=true&locale=en" alt="jhonaquejadau" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jhonaquejadau&" alt="jhonaquejadau" /></p>
 
