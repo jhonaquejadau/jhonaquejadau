@@ -1,5 +1,5 @@
 # Credits
-Thanks to [rahuldkjain](https://rahuldkjain.github.io/) for creating awesome tool to provide a custom README template.
+Thanks to [rahuldkjain](https://github.com/rahuldkjain) for creating awesome tool to provide a custom README template.
 [source - custom README template](https://rahuldkjain.github.io/gh-profile-readme-generator/)
 
 <img align="center" width="100%" src="./banner_react_linkedln.png" alt="jhonaquejadau banner react" />
