@@ -1,4 +1,4 @@
-<img align="left" width="400" src="./banner_react.png" alt="jhonaquejadau banner react" />
+<img align="center" width="100%" src="./banner_react.png" alt="jhonaquejadau banner react" />
 <h1 align="center">Hi 👋, I'm Jhon A. Quejada U.</h1>
 <h3 align="center">A passionate frontend developer from Colombia</h3>
 
