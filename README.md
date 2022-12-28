@@ -2,7 +2,7 @@
 Thanks to [rahuldkjain](https://github.com/rahuldkjain) for creating awesome tool to provide a custom README template.
 [source - custom README template](https://rahuldkjain.github.io/gh-profile-readme-generator/)
 
-<img align="center" width="100%" src="./banner_react_linkedln.png" alt="jhonaquejadau banner react" />
+<img align="center" width="100%" src="./banner_react_two.png" alt="jhonaquejadau banner react" />
 <h1 align="center">Hi 👋, I'm Jhon A. Quejada U.</h1>
 <h3 align="center">A passionate frontend developer from Colombia</h3>
 
