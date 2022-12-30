@@ -20,7 +20,7 @@ Thanks to [rahuldkjain](https://github.com/rahuldkjain) for creating awesome too
 
 - 👨‍💻 All of my projects are available at [https://jhonaquejadau.github.io/portfolio/](https://jhonaquejadau.github.io/portfolio/)
 
-- 💬 Ask me about **React, JavaScript, Tailwind**
+- 💬 Ask me about **React, JavaScript, Tailwind, Git**
 
 - 📫 How to reach me **jhona.quejada@gmail.com**
 
