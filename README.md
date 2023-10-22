@@ -2,25 +2,19 @@
 Thanks to [rahuldkjain](https://github.com/rahuldkjain) for creating awesome tool to provide a custom README template.
 [source - custom README template](https://rahuldkjain.github.io/gh-profile-readme-generator/)
 
-<img align="center" width="100%" src="./banner_react_two.png" alt="jhonaquejadau banner react" />
+<img align="center" width="100%" src="./jaqudev_banner.png" alt="Pythonist banner jaqudev" />
 <h1 align="center">Hi 👋, I'm Jhon A. Quejada U.</h1>
-<h3 align="center">A passionate frontend developer from Colombia</h3>
+<h3 align="center">A passionate Pythonist & AI Engineer from Colombia</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jhonaquejadau&label=Profile%20views&color=0e75b6&style=flat" alt="jhonaquejadau" /> </p>
 
 <p align="left"> <a href="https://twitter.com/jaqudev_" target="blank"><img src="https://img.shields.io/twitter/follow/jaqudev_?logo=twitter&style=for-the-badge" alt="jaqudev_" /></a> </p>
 
-- 🔭 I’m currently working on [Movies App, Pokedex App, Taks MERN App](https://github.com/jhonaquejadau)
+- 🔭 I’m currently working as an AI Engineer at Softpymes SAS.
 
-- 🌱 I’m currently learning **Node Js, Express, MongoDB, Next Js**
+- 🌱 I’m passionate about problem-solving. 
 
-- 👯 I’m looking to collaborate on **Any frontend project**
-
-- 🤝 I’m looking for my first job as **jr. frontend developer**
-
-- 👨‍💻 All of my projects are available at [https://jhonaquejadau.github.io/portfolio/](https://jhonaquejadau.github.io/portfolio/)
-
-- 💬 Ask me about **React, JavaScript, Tailwind, Git**
+- 💬 Ask me about Python, LLM's, Selenium, Bs4, Git, Pandas
 
 - 📫 How to reach me **jhona.quejada@gmail.com**
 
