@@ -12,7 +12,7 @@
 
 ### 👨‍💻 About Me
 
-- 🔭 Currently shaping the future of AI at **Softpymes SAS** as an AI Engineer.
+- 🔭 Currently shaping the future of AI at **Joker Company - (Foundation Team Member)** as a Senior AI Engineer.
 - 🧠 I love solving hard problems using **Python, LangChain, LLMs, and automation tools**.
 - 🧪 Exploring multi-agent systems, prompt engineering, RAG pipelines, and beyond.
 - 💬 Ask me about: `Python`, `LLMs`, `LangChain`, `Selenium`, `BeautifulSoup`, `Pandas`, `Git`, and more.
