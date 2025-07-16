@@ -31,8 +31,9 @@
 ---
 
 ### 🛠️ Tools & Technologies
-Core: `Python`, `Fast API`, `LLMs`, `LangChain`, `HuggingFace`, `Pinecone`, `Redis`, `MongoDB`, `Linux`, `Git`, `Docker`, 
-Side Background: `RAG Pipelines` | `Vectorstores - File Seacrh Systems` | `Foundational LLMs Models - (OpenAI, Claude, Gemini)` | `Multi-Agents Orchestrators` | `Automation Tools` | `NER Agents`
+
+Core: `Python`, `Fast API`, `LLMs`, `LangChain`, `HuggingFace`, `Pinecone`, `Redis`, `MongoDB`, `Linux`, `Git`, `Docker`.
+Side Background: `RAG Pipelines` | `Vectorstores - File Search Systems` | `Foundational LLMs Models - (OpenAI, Claude, Gemini)` | `Multi-Agents Orchestrators` | `Automation Tools` | `NER Agents`.
 
 ---
 
