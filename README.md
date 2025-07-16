@@ -15,7 +15,7 @@
 - 🔭 Currently shaping the future of AI at **Joker Company - (Foundation Team Member)** as a Senior AI Engineer.
 - 🧠 I love solving hard problems using **Python, LangChain, LLMs, and automation tools**.
 - 🧪 Exploring multi-agent systems, prompt engineering, RAG pipelines, and beyond.
-- 💬 Ask me about: `Python`, `LLMs`, `LangChain`, `Selenium`, `BeautifulSoup`, `Pandas`, `Git`, and more.
+- 💬 Pythonist at heart — endlessly curious, constantly evolving. I’m not perfect, just committed to improving every single day.
 - ✉️ Reach me at **jhona.quejada@gmail.com**
 - 🔗 [My LinkedIn](https://www.linkedin.com/in/jhon-alexander-quejada-urrutia-022763230/)
 
@@ -31,8 +31,8 @@
 ---
 
 ### 🛠️ Tools & Technologies
-
-<!-- Keep your existing icons as-is, no changes needed here -->
+Core: `Python`, `Fast API`, `LLMs`, `LangChain`, `HuggingFace`, `Pinecone`, `Redis`, `MongoDB`, `Linux`, `Git`, `Docker`, 
+Side Background: `RAG Pipelines` | `Vectorstores - File Seacrh Systems` | `Foundational LLMs Models - (OpenAI, Claude, Gemini)` | `Multi-Agents Orchestrators` | `Automation Tools` | `NER Agents`
 
 ---
 
