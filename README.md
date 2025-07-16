@@ -16,8 +16,7 @@
 - 🧠 I love solving hard problems using **Python, LangChain, LLMs, and automation tools**.
 - 🧪 Exploring multi-agent systems, prompt engineering, RAG pipelines, and beyond.
 - 💬 Pythonist at heart — endlessly curious, constantly evolving. I’m not perfect, just committed to improving every single day.
-- ✉️ Reach me at **jhona.quejada@gmail.com**
-- 🔗 [My LinkedIn](https://www.linkedin.com/in/jhon-alexander-quejada-urrutia-022763230/)
+- ✉️ Reach me at **jhona.quejada@gmail.com** or [Jhon A. Quejada U. LinkedIn Profile](https://www.linkedin.com/in/jhon-alexander-quejada-urrutia-022763230/)
 
 ---
 
